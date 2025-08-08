@@ -3,6 +3,7 @@
     Adds or removes the built-in Guest account from the local Administrators group.
     Use with caution and always test in a non-production environment first.
     Requires Administrator privileges to execute successfully.
+    
 
 .NOTES
     Author        : Jeremy Odekerken
