@@ -3,6 +3,7 @@
     Enables or disables legacy cryptographic protocols to harden or loosen system security posture.
     Ensure this script is run with administrative privileges and tested in a non-production environment before full deployment.
 
+
 .NOTES
     Author        : Jeremy Odekerken
     Date Created  : 2025-08-07
