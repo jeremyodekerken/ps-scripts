@@ -2,6 +2,7 @@
 .SYNOPSIS
     Configures system cipher suites to prioritize either secure or insecure protocols.
     Requires elevated privileges. Test thoroughly before deployment in production environments.
+    
 
 .NOTES
     Author        : Jeremy Odekerken
